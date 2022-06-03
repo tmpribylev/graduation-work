@@ -1,0 +1,3 @@
+ARTEFACTS = {}
+PROCESSES = {}
+TASKS = {}
